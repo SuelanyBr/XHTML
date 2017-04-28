@@ -1,0 +1,61 @@
+**Aula 1**
+Editores HTML
+ Dreamwea
+ HTMLkit
+ coffecup
+ arachnophilia
+
+**Aula 2**
+O QUE EH NAVEGADOR WEB??
+	Aplicativo que interpreta o codigo html e apresenta a pagina descrita pelo codigo
+
+HTML - Hyper Text Markup Language
+(X)html - Extensible Hyper ...
+
+**Aula 3**
+Tags - Tudo que vem entre os sinais "<" e ">", sempre estao em letras minusculas
+	* Precisa ser fechada
+ 
+**Aula 4 e 5**
+Marcação semantica
+	Usa elementos da linguagem html em conformididade com o significado destes elementos
+- <h1>, <h2>, ...
+	- <h1 align="center">
+- <p>
+- <br /> 
+
+**Aula 6 e 7**
+Tags de Marcação
+Elementos Inline - Conteudo distibuido em linha
+	- <b>: Negrito
+	- <i>: Italico
+	- <u>: Sublinhado (Tag depreciada)
+	- <del>: trecho excluido (Tag depreciada)
+	- <tt>: letras com mesma largura
+	- <sup>: palavra em parte superior
+	- <sub>: palavra na parte inferior
+	
+	Ênfases:
+		- <em>: Italico
+		- <strong>: Negrito
+	
+	- <q>: citação
+	- <big>: texto maior
+	- <small>: texto menor
+	
+Mais informações: www.w3.org
+	
+**Aula 8**
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
