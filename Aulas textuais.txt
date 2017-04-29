@@ -46,6 +46,12 @@ Elementos Inline - Conteudo distibuido em linha
 Mais informações: www.w3.org
 	
 **Aula 8**
+atributo style - Pode ser nos formatos: Decimal, Hexadecimal e nomes 
+Uso do padrão rgb
+html color picker
+
+**Aula 9**
+Imagens
 	
 	
 	
