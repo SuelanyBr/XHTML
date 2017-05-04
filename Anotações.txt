@@ -60,10 +60,17 @@ style = largura da imagem, propriedade: width -- pode ser em px ou em %
 
 o atributo align esta depreciado, portanto pode a centralizaçao do 
 texto pode ser feita com o atributo style 
-	
-	
-	
-	
+
+**Aula 10 e 11**
+Edição de imagem
+EDITORES:
+- Photoshop Adobe
+- Gimp
+- Picasa
+- ImageMagic
+
+**Aula 12**
+Listas - elemento em bloco
 	
 	
 	
