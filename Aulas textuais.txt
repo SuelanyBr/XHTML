@@ -52,8 +52,14 @@ html color picker
 
 **Aula 9**
 Imagens
-	
-	
+tag: <img src="" alt="" />
+alt = texto alternativo
+
+outros atributos:
+style = largura da imagem, propriedade: width -- pode ser em px ou em %
+
+o atributo align esta depreciado, portanto pode a centralizaçao do 
+texto pode ser feita com o atributo style 
 	
 	
 	
